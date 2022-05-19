@@ -4,27 +4,37 @@ import HeaderNav from "./layout/HeaderNav"
 import BooksJson from '../mock/GETBooks.json'
 import { Grid } from "@mui/material"
 import * as React from 'react';
+import { SavedSearch } from "@mui/icons-material"
 
 export default () => {
 
     const [booksResult,setBookResult] = React.useState(BooksJson.items);
-    const savedBooks = [];
+    const [savedBooks, setSavedBooks] = React.useState([]);
+    const [bookCount, setBookCount] = React.useState(savedBooks.length);
 
     const handleSavedBook = (bookId,isSaved)=>{
-        console.log('Saved book: ',bookId,' selected: ',isSaved);
-        booksResult.forEach(book=>{
-            if(book.id == bookId){
-                console.log(book.volumeInfo.title);
+        console.log("Before updating: ", savedBooks);
+        var bookIndex = savedBooks.indexOf(bookId);
+        console.log('Saved book: ',bookId,' selected: ',isSaved,"bookIndex: ",bookIndex);
+        if(isSaved){
+            if(bookIndex == -1){
+                savedBooks.push(bookId);
             }
-        });
-
+        }else{
+            if(bookIndex!=-1){
+                savedBooks.splice(bookIndex,1);
+            }
+        }
+        console.log(savedBooks);
+        setBookCount(savedBooks.length);
     }
+
     const handleGetBooks = (response) =>{
         setBookResult(response.data.items);
     }
     return (
         <div>
-            <HeaderNav onGetBooks={handleGetBooks}/>
+            <HeaderNav onGetBooks={handleGetBooks} bookCount={bookCount}/>
             <Grid container className="gallery" spacing={4} sx={{marginLeft:'15%',marginTop:'1%'}}>
             { booksResult.map(k=>(
                 <Grid item sm="auto" className="gridCell" columnSpacing={2}>

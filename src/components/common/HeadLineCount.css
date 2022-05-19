@@ -1,0 +1,12 @@
+
+.notification {
+    font-size: 15px;
+    border: 2px solid;
+    border-radius:50%;
+    top: 2px;
+    position: absolute;
+    left: 20px;
+    z-index: 1;
+    background-color:cadetblue ;
+    width:20px;
+}

@@ -6,6 +6,7 @@ import Search from '../common/Search';
 import { Grid, IconButton } from '@mui/material';
 import GoogleBookService from '../../services/GoogleBooksService';
 import ViewHeadlineOutlinedIcon from '@mui/icons-material/ViewHeadlineOutlined';
+import HeadLineCount from '../common/HeadLineCount';
 
 export default (props) => {
 
@@ -26,9 +27,7 @@ export default (props) => {
                 <Grid item md={2}></Grid>
                 <Grid item md={6} ><Search placeholder='Search Books by Title, Author' onSearch={handleSearch}/></Grid>
                 <Grid item md={2}>
-                    <IconButton>
-                        <ViewHeadlineOutlinedIcon sx={{marginRight: '10%'}}/> 
-                    </IconButton>
+                    <HeadLineCount savedBookCount={props.bookCount}/>
                     <IconButton>
                         <AccountCircleRoundedIcon fontSize='large' sx={{top:'50px'}} />
                     </IconButton>
