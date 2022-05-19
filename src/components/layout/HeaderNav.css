@@ -1,0 +1,9 @@
+.headerNav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color: cornflowerblue;
+    height: 200%;
+    padding: 10px;
+}

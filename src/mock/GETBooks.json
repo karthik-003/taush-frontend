@@ -1,0 +1,870 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 1639,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "AJ4REAAAQBAJ",
+            "etag": "gYPIwGiOyA0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/AJ4REAAAQBAJ",
+            "volumeInfo": {
+                "title": "Nineteen Eighty-Four",
+                "authors": [
+                    "George Orwell"
+                ],
+                "publisher": "BoD - Books on Demand",
+                "publishedDate": "2021-01-01",
+                "description": "George Orwell's Nineteen Eighty-Four is unquestionably the most famous dystopian novel of all times. Written in the year of 1948, the author swapped the last two digits while describing a future totalitarian society where the minds, attitudes and actions of the subjects are thoroughly scrutinized by the \"Thought Police\", suspected dissidents tracked down and where the worship of the mythical party leader Big Brother is forced upon the masses. The low-ranking party member Winston Smith begins secretly to question the whole system and initiates a forbidden love affair with another party member.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789198577815"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9198577816"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 276,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 565,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=AJ4REAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=AJ4REAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=AJ4REAAAQBAJ&printsec=frontcover&dq=1984&hl=&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.co.in/books?id=AJ4REAAAQBAJ&dq=1984&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Nineteen_Eighty_Four.html?hl=&id=AJ4REAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=AJ4REAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "George Orwell&#39;s Nineteen Eighty-Four is unquestionably the most famous dystopian novel of all times."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "46cxDQAAQBAJ",
+            "etag": "BN1P/+GNxdk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/46cxDQAAQBAJ",
+            "volumeInfo": {
+                "title": "Prisoners of Geography",
+                "subtitle": "Ten Maps That Explain Everything About the World",
+                "authors": [
+                    "Tim Marshall"
+                ],
+                "publisher": "Simon and Schuster",
+                "publishedDate": "2016-10-11",
+                "description": "First published in Great Britain in 2015 by Elliott and Thompson Limited.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781501121470"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1501121472"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 305,
+                "printType": "BOOK",
+                "categories": [
+                    "History"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 26,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.10.2.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=46cxDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=46cxDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=46cxDQAAQBAJ&pg=PP1&dq=1984&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.co.in/books?id=46cxDQAAQBAJ&dq=1984&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Prisoners_of_Geography.html?hl=&id=46cxDQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=46cxDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "First published in Great Britain in 2015 by Elliott and Thompson Limited."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "kotPYEqx7kMC",
+            "etag": "VcozRju3VfE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/kotPYEqx7kMC",
+            "volumeInfo": {
+                "title": "1984",
+                "authors": [
+                    "George Orwell"
+                ],
+                "publisher": "HarperCollins",
+                "publishedDate": "2013-09-03",
+                "description": "A PBS Great American Read Top 100 Pick With extraordinary relevance and renewed popularity, George Orwell’s 1984 takes on new life in this edition. “Orwell saw, to his credit, that the act of falsifying reality is only secondarily a way of changing perceptions. It is, above all, a way of asserting power.”—The New Yorker In 1984, London is a grim city in the totalitarian state of Oceania where Big Brother is always watching you and the Thought Police can practically read your mind. Winston Smith is a man in grave danger for the simple reason that his memory still functions. Drawn into a forbidden love affair, Winston finds the courage to join a secret revolutionary organization called The Brotherhood, dedicated to the destruction of the Party. Together with his beloved Julia, he hazards his life in a deadly match against the powers that be. Lionel Trilling said of Orwell’s masterpiece, “1984 is a profound, terrifying, and wholly fascinating book. It is a fantasy of the political future, and like any such fantasy, serves its author as a magnifying device for an examination of the present.” Though the year 1984 now exists in the past, Orwell’s novel remains an urgent call for the individual willing to speak truth to power.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780547249643"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0547249640"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 304,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 4.5,
+                "ratingsCount": 82,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "2.29.25.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=kotPYEqx7kMC&printsec=frontcover&dq=1984&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=kotPYEqx7kMC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kotPYEqx7kMC"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 1038.02,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amount": 519.01,
+                    "currencyCode": "INR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=kotPYEqx7kMC&rdid=book-kotPYEqx7kMC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 1038020000,
+                            "currencyCode": "INR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 519010000,
+                            "currencyCode": "INR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/1984-sample-epub.acsm?id=kotPYEqx7kMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=kotPYEqx7kMC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "A PBS Great American Read Top 100 Pick With extraordinary relevance and renewed popularity, George Orwell’s 1984 takes on new life in this edition. “Orwell saw, to his credit, that the act of falsifying reality is only secondarily a way ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Xx19DwAAQBAJ",
+            "etag": "ASrDsTy7W78",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Xx19DwAAQBAJ",
+            "volumeInfo": {
+                "title": "The Ministry of Truth",
+                "subtitle": "A Biography of George Orwell's 1984",
+                "authors": [
+                    "Dorian Lynskey"
+                ],
+                "publisher": "Pan Macmillan",
+                "publishedDate": "2019-05-30",
+                "description": "Longlisted for the Baillie Gifford Prize for Non-Fiction 2019 Longlisted for the Orwell Prize for Political Writing 2020 'Fascinating . . . If you have even the slightest interest in Orwell or in the development of our culture, you should not miss this engrossing, enlightening book.' John Carey, Sunday Times George Orwell's 1984 has become a defining narrative of the modern world. Its cultural influence can be observed in some of the most notable creations of the past seventy years, from Margaret Atwood's The Handmaid's Tale to the reality TV landmark Big Brother, while ideas such as 'thought police', 'doublethink', and 'Newspeak' are ingrained in our language. The Ministry of Truth charts the life of one of the most influential books of the twentieth century and a work that is ever more relevant in this tumultuous era of 'fake news' and 'alternative facts'. Dorian Lynskey investigates the influences that came together in the writing of 1984 from Orwell's experiences in the Spanish Civil War and in wartime London to his fascination with utopian and dystopian fiction. Lynskey explores the phenomenon the novel became when it was first published in 1949 and the changing ways in which it has been read over the decades since, revealing how history can inform fiction and how fiction can influence history. 'Everything you wanted to know about 1984 but were too busy misusing the word \"Orwellian\" to ask.' Caitlin Moran",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781509890767"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1509890769"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 320,
+                "printType": "BOOK",
+                "categories": [
+                    "Literary Criticism"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 7,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.3.3.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Xx19DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Xx19DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=Xx19DwAAQBAJ&pg=PP1&dq=1984&hl=&cd=4&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=Xx19DwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Xx19DwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 560.78,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amount": 280.39,
+                    "currencyCode": "INR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=Xx19DwAAQBAJ&rdid=book-Xx19DwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 560780000,
+                            "currencyCode": "INR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 280390000,
+                            "currencyCode": "INR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/The_Ministry_of_Truth-sample-epub.acsm?id=Xx19DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Xx19DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Lynskey explores the phenomenon the novel became when it was first published in 1949 and the changing ways in which it has been read over the decades since, revealing how history can inform fiction and how fiction can influence history."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "UCryDwAAQBAJ",
+            "etag": "PWHO4zQq3Zs",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/UCryDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Animal Farm",
+                "authors": [
+                    "George Orwell"
+                ],
+                "publisher": "Pan Macmillan",
+                "publishedDate": "2021-01-07",
+                "description": "Animal Farm is George Orwell’s brilliant political satire and allegorical fable about the corrupting effects of power. Published in 1945 it is, to this day, one of the most famous and influential works of fiction ever written. Part of the Macmillan Collector’s Library; a series of stunning, clothbound, pocket-sized classics with gold foiled edges and ribbon markers. These beautiful books make perfect gifts or a treat for any book lover. This edition features an introduction by journalist and writer Jason Cowley. When the old Major, a highly respected white boar, gathers his fellow farm animals to preach about freedom, rebellion and the evils of man, he incites a revolution that has been brewing for years. The animals drive out their drunken farmer, Mr Jones and create their own society which promises equality for all. Two scheming pigs, Napoleon and Snowball, appoint themselves leaders and what begins as a supposedly equalitarian community descends into an increasingly violent and hierarchical society permeated by lies and corruption.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781529038224"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1529038227"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 128,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 7,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.1.1.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=UCryDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=UCryDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=UCryDwAAQBAJ&printsec=frontcover&dq=1984&hl=&cd=5&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=UCryDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UCryDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 167.44,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amount": 117.21,
+                    "currencyCode": "INR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=UCryDwAAQBAJ&rdid=book-UCryDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 167440000,
+                            "currencyCode": "INR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 117210000,
+                            "currencyCode": "INR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Animal_Farm-sample-epub.acsm?id=UCryDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=UCryDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "These beautiful books make perfect gifts or a treat for any book lover. This edition features an introduction by journalist and writer Jason Cowley."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "lbqlAQAACAAJ",
+            "etag": "JVvaF5K8UOQ",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/lbqlAQAACAAJ",
+            "volumeInfo": {
+                "title": "Nineteen Eighty-four",
+                "authors": [
+                    "George Orwell"
+                ],
+                "publisher": "Large Print Press",
+                "publishedDate": "2017-04-05",
+                "description": "A chilling portrait of a totalitarian society under the ever-watchful gaze of Big Brother, where love, privacy, and individuality are banned. The year 1984 has come and gone, but George Orwell's nightmare vision from 1949 of the world we are becoming is timelier that ever. 1984 is the great modern classic of a 'negative utopia' - a startlingly original and haunting novel that creates an imaginary world that is completely convincing",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1432839683"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781432839680"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 499,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=lbqlAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=lbqlAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=lbqlAQAACAAJ&dq=1984&hl=&cd=6&source=gbs_api",
+                "infoLink": "http://books.google.co.in/books?id=lbqlAQAACAAJ&dq=1984&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Nineteen_Eighty_four.html?hl=&id=lbqlAQAACAAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=lbqlAQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "A portrait of a totalitarian society under the ever-watchful gaze of Big Brother, where love, privacy, and individuality are banned."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "H1zzDwAAQBAJ",
+            "etag": "4Wccwrxn9eI",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/H1zzDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Nineteen Eighty-Four",
+                "subtitle": "The Graphic Novel",
+                "authors": [
+                    "George Orwell"
+                ],
+                "publisher": "Penguin UK",
+                "publishedDate": "2021-04-01",
+                "description": "The first ever graphic novel adaptation of George Orwell's timeless dystopia Winston Smith, an outwardly obedient citizen of Airstrip One, dreams secretly of truth and freedom - but his rebellion will come at a terrible cost. George Orwell's dark masterpiece has enthralled readers for over seventy years. Now the dystopian world of Big Brother, telescreens, the Thought Police and Room 101 is vividly brought to new life in this first ever graphic novel adaptation, illustrated by acclaimed artist Fido Nesti.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780141992358"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0141992352"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 224,
+                "printType": "BOOK",
+                "categories": [
+                    "Comics & Graphic Novels"
+                ],
+                "averageRating": 3,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.2.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=H1zzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=H1zzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=H1zzDwAAQBAJ&printsec=frontcover&dq=1984&hl=&cd=7&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=H1zzDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=H1zzDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 884.11,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amount": 442.06,
+                    "currencyCode": "INR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=H1zzDwAAQBAJ&rdid=book-H1zzDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 884110000,
+                            "currencyCode": "INR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 442060000,
+                            "currencyCode": "INR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Nineteen_Eighty_Four-sample-epub.acsm?id=H1zzDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Nineteen_Eighty_Four-sample-pdf.acsm?id=H1zzDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=H1zzDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "George Orwell&#39;s dark masterpiece has enthralled readers for over seventy years."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "sn2jDwAAQBAJ",
+            "etag": "jY8GOmqY2iQ",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/sn2jDwAAQBAJ",
+            "volumeInfo": {
+                "title": "1984 (Vocabulary Enhancer)",
+                "authors": [
+                    "George Orwell"
+                ],
+                "publisher": "Penguin Random House India Private Limited",
+                "publishedDate": "2019-05-10",
+                "description": "The right word, now at your fingertips! Word power is an integral part of being able to express yourself-whether you're in college, appearing for competitive exams or attending a job interview. It makes you an effective and confident communicator. This handy guide brings to you an abridged version of the dystopian masterpiece 1984 by George Orwell to familiarize you with a must-read and equip you with new words. Accessible and engaging, each book in the Vocabulary Enhancer series simplifies a classic and helps you memorize a list of carefully curated, frequently used words through their definitions, antonyms, examples of usage as well as word exercises and puzzles to recap your learning. So what are you waiting for? Strengthen your understanding of the English language and enhance your vocabulary with this unique companion.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789353055493"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9353055490"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 264,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.2.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=sn2jDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=sn2jDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=sn2jDwAAQBAJ&pg=PP1&dq=1984&hl=&cd=8&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=sn2jDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=sn2jDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 224.2,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amount": 199.5,
+                    "currencyCode": "INR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=sn2jDwAAQBAJ&rdid=book-sn2jDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 224200000,
+                            "currencyCode": "INR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 199500000,
+                            "currencyCode": "INR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/1984_Vocabulary_Enhancer-sample-epub.acsm?id=sn2jDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/1984_Vocabulary_Enhancer-sample-pdf.acsm?id=sn2jDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=sn2jDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "It makes you an effective and confident communicator. This handy guide brings to you an abridged version of the dystopian masterpiece 1984 by George Orwell to familiarize you with a must-read and equip you with new words."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "f75MDQAAQBAJ",
+            "etag": "rtL9sMWQjxs",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/f75MDQAAQBAJ",
+            "volumeInfo": {
+                "title": "1984",
+                "subtitle": "The Anti-Sikh Riots and After",
+                "authors": [
+                    "Sanjay Suri"
+                ],
+                "publisher": "Harper Collins",
+                "publishedDate": "2015-06-15",
+                "description": "A chilling eyewitness account of the anti-Sikh violence Sanjay Suri was a young crime reporter with The Indian Express newspaper in New Delhi when Prime Minister Indira Gandhi was assassinated by her bodyguards on 31 October 1984. He was among the few journalists to experience the full horror of the anti-Sikh violence that followed and carried on unchecked for the next couple of days, while the police looked the other way.He saw a Congress MP demanding the release of party workers who had been arrested for loot. He had a narrow escape from a gang of killers while out reporting. He later filed affidavits that included eyewitness accounts relating to two Congress MPs, and confronted former Prime Minister Rajiv Gandhi at an election rally. Suri also testified before several commissions of inquiry set up to investigate the massacres---though very little came of these.In this book, he brings together a wealth of fresh revelations, arising from his own experiences, and from extensive interviews with police officers then in the front line of facing the violence. Humane but chilling, Suri's account is backed by a thorough examination of existing records and the provisions of the Indian legal system.Taking a close look at the question of the Congress hand behind the brutalities and why the survivors continue to wait for justice even thirty years later, 1984: The Anti-Sikh Violence and After remains urgent even today. It combines expert reportage with gripping recollections to tell a riveting story, leaving us disturbed and moved in equal measure.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789351770718"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9351770710"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 280,
+                "printType": "BOOK",
+                "categories": [
+                    "Political Science"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.2.2.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=f75MDQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=f75MDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=f75MDQAAQBAJ&dq=1984&hl=&cd=9&source=gbs_api",
+                "infoLink": "http://books.google.co.in/books?id=f75MDQAAQBAJ&dq=1984&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/1984.html?hl=&id=f75MDQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=f75MDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Suri also testified before several commissions of inquiry set up to investigate the massacres---though very little came of these.In this book, he brings together a wealth of fresh revelations, arising from his own experiences, and from ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "LDjXswEACAAJ",
+            "etag": "lOlaPWAwvZo",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/LDjXswEACAAJ",
+            "volumeInfo": {
+                "title": "1984",
+                "subtitle": "India's Guilty Secret",
+                "authors": [
+                    "Pav Singh"
+                ],
+                "publisher": "Rupa Publications",
+                "publishedDate": "2017",
+                "description": "This shocking exposé of a true-life Orwellian plot of nightmarish proportions reveals the chilling events of November 1984 following Indira Gandhi's assassination, and the cover-up by the Indian Government. For over three days, armed mobs systematically butchered, torched and raped members of the Sikh community in Delhi and other places, unchecked. The sheer scale of the killings exceeded the combined civilian death tolls of other conflicts such as Tiananmen Square and 9/11. In Delhi alone 3,000 people were killed. Thirty-three years on, the full extent of what took place has yet to be fully acknowledged. Based on victim testimonies and official accounts, this book exposes how the largest mass crime against humanity in India's modern history was perpetrated by politicians and covered up with the help of the police, judiciary and media. A book that posits fundamental questions, it will shake you to the core.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "8129149281"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9788129149282"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 268,
+                "printType": "BOOK",
+                "categories": [
+                    "Political Science"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=LDjXswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=LDjXswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=LDjXswEACAAJ&dq=1984&hl=&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.co.in/books?id=LDjXswEACAAJ&dq=1984&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/1984.html?hl=&id=LDjXswEACAAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=LDjXswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Based on victim testimonies and official accounts, this book exposes how the largest mass crime against humanity in India&#39;s modern history was perpetrated by politicians and covered up with the help of the police, judiciary and media."
+            }
+        }
+    ]
+}
