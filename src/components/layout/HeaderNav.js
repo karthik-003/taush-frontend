@@ -5,7 +5,6 @@ import AccountCircleRoundedIcon from '@mui/icons-material/AccountCircleRounded';
 import Search from '../common/Search';
 import { Grid, IconButton } from '@mui/material';
 import GoogleBookService from '../../services/GoogleBooksService';
-import ViewHeadlineOutlinedIcon from '@mui/icons-material/ViewHeadlineOutlined';
 import HeadLineCount from '../common/HeadLineCount';
 
 export default (props) => {

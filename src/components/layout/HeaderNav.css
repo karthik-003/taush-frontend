@@ -4,7 +4,10 @@
     justify-content: center;
     width: 100%;
     background-color: cornflowerblue;
-    height: 200%;
+    position: fixed;
     padding: 10px;
+    top:0%;
+    margin-bottom: 2%;
+    z-index: 1;
     
 }
